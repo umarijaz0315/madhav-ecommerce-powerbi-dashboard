@@ -36,4 +36,4 @@ The dashboard provides interactive insights to support data-driven decisions.
 
 ## 📬 Contact
 **Umar Ijaz**  
-LinkedIn: add-your-link-here
+LinkedIn:
